@@ -1,0 +1,14 @@
+D:\locked in\leetcode\14\bin\Debug\net9.0\14.exe
+D:\locked in\leetcode\14\bin\Debug\net9.0\14.deps.json
+D:\locked in\leetcode\14\bin\Debug\net9.0\14.runtimeconfig.json
+D:\locked in\leetcode\14\bin\Debug\net9.0\14.dll
+D:\locked in\leetcode\14\bin\Debug\net9.0\14.pdb
+D:\locked in\leetcode\14\obj\Debug\net9.0\14.GeneratedMSBuildEditorConfig.editorconfig
+D:\locked in\leetcode\14\obj\Debug\net9.0\14.AssemblyInfoInputs.cache
+D:\locked in\leetcode\14\obj\Debug\net9.0\14.AssemblyInfo.cs
+D:\locked in\leetcode\14\obj\Debug\net9.0\14.csproj.CoreCompileInputs.cache
+D:\locked in\leetcode\14\obj\Debug\net9.0\14.dll
+D:\locked in\leetcode\14\obj\Debug\net9.0\refint\14.dll
+D:\locked in\leetcode\14\obj\Debug\net9.0\14.pdb
+D:\locked in\leetcode\14\obj\Debug\net9.0\14.genruntimeconfig.cache
+D:\locked in\leetcode\14\obj\Debug\net9.0\ref\14.dll
