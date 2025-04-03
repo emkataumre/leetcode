@@ -1,0 +1,15 @@
+D:\locked in\leetcode\medium\2033. Minimum Operations to Make a Uni-Value Grid\obj\Debug\net9.0\2033. Minimum Operations to Make a Uni-Value Grid.GeneratedMSBuildEditorConfig.editorconfig
+D:\locked in\leetcode\medium\2033. Minimum Operations to Make a Uni-Value Grid\obj\Debug\net9.0\2033. Minimum Operations to Make a Uni-Value Grid.AssemblyInfoInputs.cache
+D:\locked in\leetcode\medium\2033. Minimum Operations to Make a Uni-Value Grid\obj\Debug\net9.0\2033. Minimum Operations to Make a Uni-Value Grid.AssemblyInfo.cs
+D:\locked in\leetcode\medium\2033. Minimum Operations to Make a Uni-Value Grid\obj\Debug\net9.0\2033. Minimum Operations to Make a Uni-Value Grid.csproj.CoreCompileInputs.cache
+D:\locked in\leetcode\medium\2033. Minimum Operations to Make a Uni-Value Grid\obj\Debug\net9.0\2033. Minimum Operations to Make a Uni-Value Grid.sourcelink.json
+D:\locked in\leetcode\medium\2033. Minimum Operations to Make a Uni-Value Grid\bin\Debug\net9.0\2033. Minimum Operations to Make a Uni-Value Grid.exe
+D:\locked in\leetcode\medium\2033. Minimum Operations to Make a Uni-Value Grid\bin\Debug\net9.0\2033. Minimum Operations to Make a Uni-Value Grid.deps.json
+D:\locked in\leetcode\medium\2033. Minimum Operations to Make a Uni-Value Grid\bin\Debug\net9.0\2033. Minimum Operations to Make a Uni-Value Grid.runtimeconfig.json
+D:\locked in\leetcode\medium\2033. Minimum Operations to Make a Uni-Value Grid\bin\Debug\net9.0\2033. Minimum Operations to Make a Uni-Value Grid.dll
+D:\locked in\leetcode\medium\2033. Minimum Operations to Make a Uni-Value Grid\bin\Debug\net9.0\2033. Minimum Operations to Make a Uni-Value Grid.pdb
+D:\locked in\leetcode\medium\2033. Minimum Operations to Make a Uni-Value Grid\obj\Debug\net9.0\2033. Minimum Operations to Make a Uni-Value Grid.dll
+D:\locked in\leetcode\medium\2033. Minimum Operations to Make a Uni-Value Grid\obj\Debug\net9.0\refint\2033. Minimum Operations to Make a Uni-Value Grid.dll
+D:\locked in\leetcode\medium\2033. Minimum Operations to Make a Uni-Value Grid\obj\Debug\net9.0\2033. Minimum Operations to Make a Uni-Value Grid.pdb
+D:\locked in\leetcode\medium\2033. Minimum Operations to Make a Uni-Value Grid\obj\Debug\net9.0\2033. Minimum Operations to Make a Uni-Value Grid.genruntimeconfig.cache
+D:\locked in\leetcode\medium\2033. Minimum Operations to Make a Uni-Value Grid\obj\Debug\net9.0\ref\2033. Minimum Operations to Make a Uni-Value Grid.dll
